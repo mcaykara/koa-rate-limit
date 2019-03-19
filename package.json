@@ -1,0 +1,19 @@
+{
+  "name": "koa-pn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-body": "^4.0.8",
+    "koa-json": "^2.0.2",
+    "koa-router": "^7.4.0",
+    "koa2-ratelimit": "^0.8.0"
+  }
+}
